@@ -1,0 +1,46 @@
+/*STYLE SHEET FOR INDEX.HTML*/
+
+
+body {			
+    font-family: arial, verdana, helvetica; 
+    color: black; 
+    font-size: 14px; 
+    background-color: tan;
+
+}
+/* The CSS id selector */
+#AboutME {
+    font-size: 14px;
+    text-align: left;
+    color:black;
+}
+/* The CSS class selectors */
+.border{
+    font-family: Times New Roman,Calisto MT;
+    color: black;
+}
+
+
+h1 {
+    font-family: arial, sans-serif; 
+    color: blue; 
+    font-size: 32px;
+    text-align:center;
+} 
+
+
+
+h2 {			
+    font-family: arial, sans-serif; 
+    color: green; 
+    font-size: 27px;
+} 
+
+
+/*
+h3 {
+    font-family: arial, sans-serif; 
+    color: black; 
+    font-size: 16px;
+} 
+*/
